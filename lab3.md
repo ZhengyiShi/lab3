@@ -19,5 +19,4 @@ repository: https://github.com/zerosolasky/lab3.git
 course project: https://github.com/zerosolasky/courseproject.git
 
 ## 5.
-Table16: https://github.com/zerosolasky/Story-Spring2017.git
-
+Table13: https://github.com/zerosolasky/Story-Spring2017.git
